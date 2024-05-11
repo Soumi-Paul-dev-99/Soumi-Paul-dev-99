@@ -1,4 +1,4 @@
-![logo](soumi.paul.dev99@gmail.com.png)
+![logo](soumi.png)
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Soumi+Paul+👩‍💼!;A+Passionate+Web+developer+from+India!!&font=Fira%20Code&center=true&width=480&height=60&duration=4000&pause=1000"
@@ -115,8 +115,8 @@ marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&sty
 definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code
 style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-<h3>🐍 My Contributions 🐍</h3>
+<hr/>
+<h3 align="center">🐍 My Contributions 🐍</h3>
 
 <picture>
   <source
