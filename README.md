@@ -1,5 +1,5 @@
 ![logo](soumi.png)
-<p align="center">
+<p align="left">
   <img
     src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Soumi+Paul+👩‍💼!;A+Passionate+Web+developer+from+India!!&font=Fira%20Code&center=true&width=480&height=60&duration=4000&pause=1000"
     alt="Example Usage - README Typing SVG"
