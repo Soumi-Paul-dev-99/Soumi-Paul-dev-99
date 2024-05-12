@@ -1,4 +1,4 @@
-![logo](soumi.png)
+![logo](soumibanner.png)
 <p align="left">
   <img
     src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Soumi+Paul+👩‍💼!;A+Passionate+Web+developer+from+India!!&font=Fira%20Code&center=true&width=480&height=60&duration=4000&pause=1000"
