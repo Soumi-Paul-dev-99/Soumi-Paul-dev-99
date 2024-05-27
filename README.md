@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **Ecommerce Website**
 - 🌱 - I’m currently learning **Next.js , React.js , MySQL** 
 - 👨‍💻 All of my projects are available at
-[https://main--soumi-paul-personal-portfolio.netlify.app/](https://main--soumi-paul-personal-portfolio.netlify.app/)
+[https://main--personal-portfolio-by-soumi.netlify.app/](https://main--personal-portfolio-by-soumi.netlify.app/)
 - 💬 Ask me about **Javascript , Node.js ,Express.js ,MongoDB, Git** 
 - 📫 How to reach me **https://www.linkedin.com/in/soumi-paul-b4950520b/** 
 - 📄 Know about my experiences
@@ -101,7 +101,7 @@
 
 <div align="center">
   <h3 style="text-align: center;">🖥️ My Portfolio:</h3>
-  <a href="https://main--soumi-paul-personal-portfolio.netlify.app/">
+  <a href="https://main--personal-portfolio-by-soumi.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge" />
   </a>
 </div>
