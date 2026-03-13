@@ -26,7 +26,7 @@
 - 💬 Ask me about **Javascript , Node.js ,Express.js ,MongoDB, Git** 
 - 📫 How to reach me **https://www.linkedin.com/in/soumi-paul-b4950520b/** 
 - 📄 Know about my experiences
-[https://drive.google.com/file/d/1r1GKGJSXnM8BUzohtf7jbQi8zyhwFyrO/view?usp=sharing](https://drive.google.com/file/d/1r1GKGJSXnM8BUzohtf7jbQi8zyhwFyrO/view?usp=sharing)
+[https://drive.google.com/file/d/1r1GKGJSXnM8BUzohtf7jbQi8zyhwFyrO/view?usp=sharing](https://drive.google.com/file/d/1savFVkjOiIATdKM35dqVaYKa8u61kGyP/view?usp=sharing)
 - ⚡ Fun fact **I think I am Captivating.**
 <hr />
 
